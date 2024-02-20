@@ -1,4 +1,3 @@
-````
 # Next.js Template with TypeScript, Next UI, and Framer Motion
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app), featuring TypeScript for type safety, [Next UI](https://nextui.org/docs/guide/introduction) for UI components, and [Framer Motion](https://www.framer.com/motion/) for animations.
@@ -8,9 +7,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 First, clone the repository and navigate into the project directory:
 
 ```bash
-git clone <repository_url>
-cd your-project-directory
-````
+git clone https://github.com/lucaperullo/nextui-nextjs-typescript-starter
+cd nextui-nextjs-typescript-starter
+```
 
 Next, install the dependencies:
 
@@ -70,9 +69,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-```
-
-```
 
 Feel free to copy and paste this entire block into your README.md file on GitHub.
